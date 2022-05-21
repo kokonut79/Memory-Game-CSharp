@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MemoryGameFinal/1.0.0": {
+        "runtime": {
+          "MemoryGameFinal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MemoryGameFinal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
